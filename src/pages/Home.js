@@ -34,6 +34,5 @@ export default function Home() {
       <button onClick={() => handelClick("바나나")}>바나나</button>
       <button onClick={() => handelClick("당근")}>당근</button>
     </>
-
   );
 };
