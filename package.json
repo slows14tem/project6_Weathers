@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://slows14tem.github.io/project6_Weathers/",
+  "homepage": "https://slows14tem.github.io/project6_Weathers",
   "eslintConfig": {
     "extends": [
       "react-app",
