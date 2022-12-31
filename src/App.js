@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<WeatherMain/>}/> {/* 루트페이지가 home이라고 만든 것 */}
+        <Route path="/" element={<WeatherMain/>}/>
         <Route path="/p1" element={<WeatherS/>}/>
         <Route path="/p2" element={<WeatherL/>}/>
       </Routes>

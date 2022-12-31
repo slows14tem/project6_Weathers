@@ -1,7 +1,7 @@
 import { Link, useNavigate } from "react-router-dom";
 
 export default function Home() {
-  const navigate = useNavigate(); //event가 발생할 때, url을 조작 가능
+  const navigate = useNavigate(); //event가 발생할 때, url의 쿼리스트링을 조작 가능
 
   const handelClick = (k) => {
     const url = {
@@ -10,6 +10,7 @@ export default function Home() {
       "당근":'/p2?item=당근&item2=채소',
     }    
     navigate(url[k])
+    //ex) navigate('/main') 이런 느낌으로 사용하는 것
   }
 
   return(
