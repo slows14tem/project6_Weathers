@@ -13,13 +13,17 @@ https://slows14tem.github.io/project6_Weathers/
 
 ## 화면 구성
 * 메인 화면
+
 ![Weathers_main](https://user-images.githubusercontent.com/106790381/211253487-0a7f3560-e99f-4769-b678-da65528385ce.jpg)
 
 * 단기 예보
+
 ![WeatherS](https://user-images.githubusercontent.com/106790381/211253621-dd7f1160-dffe-465a-a654-2351eadd15a1.jpg)
 
 * 중기 예보
+
 ![WeathersL](https://user-images.githubusercontent.com/106790381/211253680-8ea32098-06c2-4c84-adb6-fe56502e0284.jpg)
 
 * 중기 예보 (날짜 변경)
+
 ![WeathersL_days](https://user-images.githubusercontent.com/106790381/211253711-ef413b08-7786-45ff-a1fc-40ced7df63aa.jpg)
