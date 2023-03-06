@@ -3,6 +3,7 @@ https://slows14tem.github.io/project6_Weathers/
 
 ## 소개
 [React Router를 활용한 화면 전환 연습을 위한 프로젝트]
+
 공공 데이터 포털에서 제공하는 단기, 중기 기상정보 데이터를 json 형식으로 내려받아 직접 json파일을 추가하여 기상 예보 앱을 제작하였다.
 
 ## 개요
